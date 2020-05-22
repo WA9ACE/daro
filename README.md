@@ -19,7 +19,7 @@ in to manually clustering node servers using the
 
 ## Usage
 
-```
+```ts
 import DaroServer from "https://wa9ace.net/deno/pkg/daro/mod.ts"
 
 const server = new DaroServer(9001)
